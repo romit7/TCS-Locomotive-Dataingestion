@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Locomotive-service
+Implementation-Version: 1.0.0
+Built-By: lg445684sd
+Implementation-Vendor-Id: com.ge.predix.solsvc.training.ingestion
+Build-Jdk: 1.8.0_72
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.tcs.predix.beta.time.series.ingestion.LocomotiveMonito
+ ringBoot
+
